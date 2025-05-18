@@ -67,7 +67,6 @@ export default function Home() {
     console.log('Produto salvo!');
     Alert.alert('Sucesso', `Produto ${nome} salvo!`);
 
-
     setNome('');
     setDataFab('');
     setPrazoVal('');
